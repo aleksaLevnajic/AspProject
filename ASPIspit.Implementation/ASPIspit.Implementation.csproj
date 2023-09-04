@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPIspit.Application\ASPIspit.Application.csproj" />
+    <ProjectReference Include="..\ASPIspit.DataAccess\ASPIspit.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

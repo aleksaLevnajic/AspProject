@@ -1,0 +1,15 @@
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\bin\Debug\net5.0\ASPIspit.Application.deps.json
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\bin\Debug\net5.0\ASPIspit.Application.dll
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\bin\Debug\net5.0\ASPIspit.Application.pdb
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.csproj.AssemblyReference.cache
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.AssemblyInfoInputs.cache
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.AssemblyInfo.cs
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.dll
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\refint\ASPIspit.Application.dll
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.pdb
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ref\ASPIspit.Application.dll
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\bin\Debug\net5.0\ASPIspit.DataAccess.dll
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\bin\Debug\net5.0\ASPIspit.DataAccess.pdb
+C:\Users\Alexa\Desktop\C# CV\ASPIspit\ASPIspit.Application\obj\Debug\net5.0\ASPIspit.Application.csproj.CopyComplete
